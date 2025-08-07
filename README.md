@@ -20,12 +20,12 @@
 
 ## 🛠️ Features
 
-✅ Clean and elegant chat interface
-✅ Gemini-powered skill roadmap generation
-✅ Smart formatting of multi-phase learning plans
-✅ 📄 Auto-generated, downloadable PDF roadmaps
-✅ 🌈 Themed UI with custom visuals
-✅ ♻️ Auto-cleans previous roadmaps on page refresh
+* ✅ Clean and elegant chat interface
+* ✅ Gemini-powered skill roadmap generation
+* ✅ Smart formatting of multi-phase learning plans
+* ✅ Auto-generated, downloadable PDF roadmaps
+* ✅ Themed UI with custom visuals
+* ✅ Auto-cleans previous roadmaps on page refresh
 
 ---
 
