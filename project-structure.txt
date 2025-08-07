@@ -1,13 +1,14 @@
 .
 ├── generated_roadmaps
+├── LICENSE
 ├── main.py
+├── packages.txt
 ├── project-structure.txt
 ├── PromptBuilder.py
+├── README.md
 ├── requirements.txt
 ├── Roadmap.py
 ├── ScaleUp_logo.png
 └── SkillModel.py
 
-2 directories, 7 files
-
-
+2 directories, 10 files
