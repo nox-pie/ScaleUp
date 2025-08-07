@@ -31,7 +31,7 @@
 
 ## 📸 Preview
 
-> *(Insert screenshot or GIF demo here if you'd like)*
+> ![Screenshot](https://github.com/user-attachments/assets/682eab6e-5795-400e-98b2-18e5e4c7fbff)
 
 ---
 
