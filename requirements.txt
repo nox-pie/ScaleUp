@@ -1,4 +1,7 @@
-streamlit
-google-generativeai
-graphviz
-Pillow
+# Core dependencies
+streamlit==1.47.1
+google-generativeai==0.8.5
+Pillow==11.3.0
+requests==2.32.4
+weasyprint==66.0
+streamlit-lottie==0.0.5

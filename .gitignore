@@ -1,0 +1,17 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Output files
+generated_roadmaps/
+*.pdf
+
+# Virtual environment
+venv/
+
+# macOS system file
+.DS_Store
+
+# Prevent accidental secrets push
+.streamlit/secrets.toml
+.env
