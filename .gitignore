@@ -1,19 +1,22 @@
-venv/
-
-# Python cache and compiled files
+# ---- Python cache and compiled files ----
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Output files
+# ---- Output files ----
 generated_roadmaps/
 *.pdf
 
-# Virtual environment
+# ---- Virtual environment ----
 venv/
 
-# macOS system file
+# ---- macOS system file ----
 .DS_Store
 
-# Prevent accidental secrets push
+# ---- Secrets & environment variables ----
 .streamlit/secrets.toml
 .env
+
+# ---- Logs ----
+*.log
