@@ -9,7 +9,7 @@ def get_model_response(messages, api_key):
     try:
         genai.configure(api_key=api_key)
 
-        model = genai.GenerativeModel("gemini-1.5-flash-latest")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         chat = model.start_chat()
 
         # Always prepend system prompt
